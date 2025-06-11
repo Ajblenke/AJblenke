@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Joseph</h1>
+<h3 align="center">a passionate data science student currently attending the College of William and Mary.</h3>
 
-<!--
-**Ajblenke/AJblenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **developing my skills in Python, SQL, and HTML**
+  
+- 📫 How to reach me **josephblenke@gmail.com**
+  
+- 🤔 I’m looking for help with recources to help me get accumlated into the tech space
 
-Here are some ideas to get you started:
+- 😄 Pronouns: He/Him
+  
+- ⚡ Fun fact: Lived abroad for 16 years of my life
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
