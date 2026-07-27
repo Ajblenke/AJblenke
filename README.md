@@ -1,1 +1,1 @@
-I'm currently learning about mlops and agent development. 
+I'm currently interested and actively applying mlops and agent development. 
